@@ -1,0 +1,8 @@
+# VSCode extension
+.vscode/
+
+# Venv
+.venv/
+
+#Python
+__pycache__/
